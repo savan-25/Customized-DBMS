@@ -106,5 +106,5 @@ Please select your option based on your requirement
 ---
 
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Savan Sumbe
+- Contact: savansumbe@example.com
